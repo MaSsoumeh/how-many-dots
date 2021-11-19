@@ -7,4 +7,4 @@ count number of dots in a word or sentence.
 
 # Preview
 
-! [Screenshot](./screenshot.png)
+![Screenshot](./screenshot.png)
