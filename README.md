@@ -5,6 +5,6 @@ count number of dots in a word or sentence.
 - vanilla js
 - Quera contest
 
-# Preview
+## Preview
 
 ![Screenshot](./screenshot.png)
